@@ -1,5 +1,7 @@
 # Datasci 306 project submission
 
+link to online app: https://austinszj.shinyapps.io/SkillcompanyAPP/  
+
 ## Instruction
 
 This project contains two files: project.R and final_jobs.rds. project.R contain the source code of the shiny app and final_jobs.rds is contains the dataset we used in this final project.
